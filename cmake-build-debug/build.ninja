@@ -84,6 +84,13 @@ build CMakeFiles/Colecci_n_de_Ejercicios_STL.dir/Ejercicio_3/Ejercicio3.cpp.obj:
   OBJECT_DIR = CMakeFiles\Colecci_n_de_Ejercicios_STL.dir
   OBJECT_FILE_DIR = CMakeFiles\Colecci_n_de_Ejercicios_STL.dir\Ejercicio_3
 
+build CMakeFiles/Colecci_n_de_Ejercicios_STL.dir/Ejercicio_4/Ejercicio4.cpp.obj: CXX_COMPILER__Colecci_n_de_Ejercicios_STL_unscanned_Debug C$:/Users/rania/OneDrive/Documenti/GitHub/Colecci-n-de-Ejercicios-STL/Ejercicio$ 4/Ejercicio4.cpp || cmake_object_order_depends_target_Colecci_n_de_Ejercicios_STL
+  DEP_FILE = CMakeFiles\Colecci_n_de_Ejercicios_STL.dir\Ejercicio_4\Ejercicio4.cpp.obj.d
+  FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
+  INCLUDES = -IC:/Users/rania/OneDrive/Documenti/GitHub/Colecci-n-de-Ejercicios-STL/.
+  OBJECT_DIR = CMakeFiles\Colecci_n_de_Ejercicios_STL.dir
+  OBJECT_FILE_DIR = CMakeFiles\Colecci_n_de_Ejercicios_STL.dir\Ejercicio_4
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target Colecci_n_de_Ejercicios_STL
@@ -92,7 +99,7 @@ build CMakeFiles/Colecci_n_de_Ejercicios_STL.dir/Ejercicio_3/Ejercicio3.cpp.obj:
 #############################################
 # Link the executable Colecci_n_de_Ejercicios_STL.exe
 
-build Colecci_n_de_Ejercicios_STL.exe: CXX_EXECUTABLE_LINKER__Colecci_n_de_Ejercicios_STL_Debug CMakeFiles/Colecci_n_de_Ejercicios_STL.dir/main.cpp.obj CMakeFiles/Colecci_n_de_Ejercicios_STL.dir/Ejercicio_1/Ejercicio1.cpp.obj CMakeFiles/Colecci_n_de_Ejercicios_STL.dir/Ejercicio_2/Circulo.cpp.obj CMakeFiles/Colecci_n_de_Ejercicios_STL.dir/Ejercicio_2/Triangulo.cpp.obj CMakeFiles/Colecci_n_de_Ejercicios_STL.dir/Ejercicio_3/Ejercicio3.cpp.obj
+build Colecci_n_de_Ejercicios_STL.exe: CXX_EXECUTABLE_LINKER__Colecci_n_de_Ejercicios_STL_Debug CMakeFiles/Colecci_n_de_Ejercicios_STL.dir/main.cpp.obj CMakeFiles/Colecci_n_de_Ejercicios_STL.dir/Ejercicio_1/Ejercicio1.cpp.obj CMakeFiles/Colecci_n_de_Ejercicios_STL.dir/Ejercicio_2/Circulo.cpp.obj CMakeFiles/Colecci_n_de_Ejercicios_STL.dir/Ejercicio_2/Triangulo.cpp.obj CMakeFiles/Colecci_n_de_Ejercicios_STL.dir/Ejercicio_3/Ejercicio3.cpp.obj CMakeFiles/Colecci_n_de_Ejercicios_STL.dir/Ejercicio_4/Ejercicio4.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\Colecci_n_de_Ejercicios_STL.dir
