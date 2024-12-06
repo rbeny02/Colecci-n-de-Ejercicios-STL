@@ -6,11 +6,11 @@
 #define CIRCULO_H
 
 
-
-class Circulo {
-
-};
+namespace Geometria {
+    double calcularAreaCirculo(double radio);
+}
 
 
 
 #endif //CIRCULO_H
+
