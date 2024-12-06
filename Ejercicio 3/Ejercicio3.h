@@ -7,9 +7,25 @@
 
 
 
-class Ejercicio3 {
+namespace Geometria {
+    class Circulo {
+    private:
+        double radio;
+    public:
+        // Constructor
+        explicit Circulo(double r);
 
-};
+        // Métodos para calcular área y perímetro
+        double calcularArea() const;
+        double calcularPerimetro() const;
+
+        // Getter y Setter (opcional para manipular el radio)
+        double getRadio() const;
+        void setRadio(double r);
+    };
+}
+
+void Ejercicio3();
 
 
 

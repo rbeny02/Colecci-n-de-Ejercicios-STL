@@ -1,12 +1,13 @@
 //
 // Created by rania on 06/12/2024.
 //
-
 #include <iostream>
+#include <locale>
 #include "Ejercicio 1//ejercicio1.h"
 #include "Ejercicio 2/Circulo.h"
 #include "Ejercicio 2/Ejercicio2.h"
 #include "Ejercicio 2/Triangulo.h"
+#include "Ejercicio 3/Ejercicio3.h"
 
 
 int main() {
@@ -21,6 +22,9 @@ int main() {
     std::cout << "El resultado de la resta es: " << resultadoResta << std::endl;
     std::cout << "Area del triangulo: " << Geometria::calcularAreaTriangulo(5, 3) << std::endl;
     std::cout << "Area del circulo: " << Geometria::calcularAreaCirculo(3) << std::endl;
+    Geometria::Circulo c(5);
+    std::cout << "Area: " << c.calcularArea() << std::endl;
+    std::cout << "Perimetro: " << c.calcularPerimetro() << std::endl;
     return 0;
 }
 
