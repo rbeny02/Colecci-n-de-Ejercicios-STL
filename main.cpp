@@ -9,6 +9,7 @@
 #include "Ejercicio 2/Triangulo.h"
 #include "Ejercicio 3/Ejercicio3.h"
 #include "Ejercicio 4/Ejercicio4.h"
+#include "Ejercicio 5/Ejercicio5.h"
 
 
 

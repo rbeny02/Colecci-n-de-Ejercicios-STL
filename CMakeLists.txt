@@ -19,4 +19,5 @@ add_executable(Colecci_n_de_Ejercicios_STL
         "Ejercicio 2/Triangulo.cpp"
         "Ejercicio 3/Ejercicio3.cpp"
         "Ejercicio 4/Ejercicio4.cpp"
+        "Ejercicio 5/Ejercicio5.cpp"
 )
